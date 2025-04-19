@@ -1,4 +1,4 @@
-# Foobar 2.0
+# Foobar 3.0
 
 Foobar is a Python library for dealing with word pluralizaurns 'words'
 foobar.pluralize('word')
